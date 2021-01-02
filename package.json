@@ -1,0 +1,28 @@
+{
+  "name": "git-color",
+  "version": "1.0.0",
+  "description": "Do you like green?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fion21/git-color.git"
+  },
+  "keywords": [
+    "Fiona",
+    "L"
+  ],
+  "author": "Fiona L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fion21/git-color/issues"
+  },
+  "homepage": "https://github.com/fion21/git-color#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "simple-git": "^2.31.0"
+  }
+}
